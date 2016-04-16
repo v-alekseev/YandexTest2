@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">YandexTest2</string>
+    <string name="title_activity_detaile">DetaileActivity</string>
+    <string name="title_activity_main2">Artist info</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_artist_info">ArtistInfoActivity</string>
 </resources>
