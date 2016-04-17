@@ -6,4 +6,5 @@
     <string name="section_format">Hello World from section: %1$d</string>
     <string name="title_activity_maps">Map</string>
     <string name="title_activity_artist_info">ArtistInfoActivity</string>
+    <string name="artist">Artist</string>
 </resources>
